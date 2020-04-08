@@ -1,9 +1,5 @@
 package org.liu;
-<<<<<<< HEAD
-//77
-=======
-//66
->>>>>>> branch 'master' of https://github.com/xiaosong26/liu777.git
+//9999
 public class Student {
 	private int id;
 	private String name;
